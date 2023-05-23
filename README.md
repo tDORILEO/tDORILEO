@@ -2,9 +2,6 @@
 
 <img align="right" alt="Coding" width="300" src="https://th.bing.com/th/id/R.21116158daaeb1459b4ec0758505e1ad?rik=vPMoxIc%2fQ%2fWttw&riu=http%3a%2f%2fclubedosgeeks.com.br%2fwp-content%2fuploads%2f2016%2f01%2fdormrm.gif&ehk=YnNztGdDz%2ftrBWZlRL1UY4p3ItEmN0FIcqoaVsdRcOI%3d&risl=&pid=ImgRaw&r=0">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TauanDorileo&theme=dracula&border_radius=6&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun&card_width=501)](https://git.io/streak-stats)
-
-
 ## Redes Sociais  
 <h3 align="left">Meus Contatos:</h3>
 <p align="left">
