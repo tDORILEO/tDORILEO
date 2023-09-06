@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/tauan-dorileo-a69256241/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40"/></a>
 <a href="https://www.instagram.com/t.dorileo26.12/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="https://wa.link/thynhg" target=_blank><img align="center" src="" alt="https://retovogel.ch/wp-content/uploads/2022/09/18764668.png" height="30" width"40" /></a>
+<a href="https://wa.link/thynhg" target=_blank><img align="center" src="" alt="https://retovogel.ch/wp-content/uploads/2022/09/18764668.png" height="10" width"40" /></a>
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
