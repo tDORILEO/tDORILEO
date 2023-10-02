@@ -13,7 +13,7 @@
 <a href="https://wa.link/thynhg" target="_blank">
   <img align="center" src="https://retovogel.ch/wp-content/uploads/2022/09/18764668.png" alt="WhatsApp" height="30" width"40" />
 </a>
-<a> href="https://www.youtube.com/@DEVBUGS" target="blank">
+<a href="https://www.youtube.com/@DEVBUGS" target="blank">
   <img align="centar" src="https://th.bing.com/th/id/R.ad388a011bc0dbf4d2e56b3172fbb3d7?rik=dMzc2K69ilPGYA&pid=ImgRaw&r=0" alt"Youtube" height="30" width"40"/>
 </a>
 
