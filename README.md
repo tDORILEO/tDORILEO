@@ -14,7 +14,7 @@
   <img align="center" src="https://retovogel.ch/wp-content/uploads/2022/09/18764668.png" alt="WhatsApp" height="30" width"40" />
 </a>
 <a href="https://www.youtube.com/@DEVBUGS" target="blank">
-  <img align="centar" src="https://e7.pngegg.com/pngimages/634/575/png-clipart-youtube-logo-youtube-computer-icons-font-awesome-logo-video-icon-angle-rectangle.png" alt"Youtube" height="30" width"40" maggin"0" padding"0"/>
+  <img align="centar" src="https://i0.wp.com/multarte.com.br/wp-content/uploads/2020/04/youtube_logo.png?resize=512%2C512&ssl=1" alt"Youtube" height="30" width"40"/>
 </a>
 
 ## Tecnologias que eu uso no meu dia
