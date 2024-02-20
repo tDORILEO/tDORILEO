@@ -13,9 +13,6 @@
 <a href="https://wa.link/thynhg" target="_blank">
   <img align="center" src="https://retovogel.ch/wp-content/uploads/2022/09/18764668.png" alt="WhatsApp" height="30" width"50" />
 </a>
-<a href="https://www.youtube.com/@DEVBUGS" target="blank">
-  <img align="center" src="https://i0.wp.com/multarte.com.br/wp-content/uploads/2020/04/youtube_logo.png?resize=512%2C512&ssl=1" alt"Youtube" height="30" width"40"/>
-</a>
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
