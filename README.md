@@ -11,7 +11,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
 <a href="https://wa.link/thynhg" target="_blank">
-  <img align="center" src="https://retovogel.ch/wp-content/uploads/2022/09/18764668.png" alt="WhatsApp" height="30" width"50" />
+  <img align="center" src="https://retovogel.ch/wp-content/uploads/2022/09/18764668.png](https://www.imagensempng.com.br/wp-content/uploads/2021/02/Logo-Whatsapp-Png-1-1024x1024.png" alt="WhatsApp" height="30" width"50" />
 </a>
 
 ## Tecnologias que eu uso no meu dia
