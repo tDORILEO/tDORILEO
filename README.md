@@ -2,8 +2,7 @@
 
 ![Banner](https://via.placeholder.com/1200x200/4682B4/FFFFFF?text=Bem-vindo+ao+meu+GitHub)
 
-<img align="right" alt="Coding" width="250" src="https://th.bing.com/th/id/R.21116158daaeb1459b4ec0758505e1ad?rik=vPMoxIc%2fQ%2fWttw&riu=http%3a%2f%2fclubedosgeeks.com.br%2fwp-content%2fuploads%2f2016%2f01%2fdormrm.gif&ehk=YnNztGdDz%2ftrBWZlRL1UY4p3ItEmN0FIcqoaVsdRcOI%3d&risl=&pid=ImgRaw&r=0">
-
+<img align="right" alt="Coding" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tDORILEO&layout=compact&langs_count=7&theme=radical">
 Sou apaixonado por tecnologia e programação, sempre buscando aprender mais e contribuir para a comunidade.
 
 ---
@@ -35,12 +34,6 @@ Sou apaixonado por tecnologia e programação, sempre buscando aprender mais e c
   <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
-</div>
-
----
-
-<div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tDORILEO&layout=compact&langs_count=7&theme=radical" />
 </div>
 
 ---
