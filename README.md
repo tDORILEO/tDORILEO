@@ -40,7 +40,7 @@ Sou apaixonado por tecnologia e programação, sempre buscando aprender mais e c
 ---
 
 <div align="center">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tDORILEO&layout=compact&langs_count=7&theme=radical" />
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tDORILEO&layout=compact&langs_count=7&theme=radical" />
 </div>
 
 ---
