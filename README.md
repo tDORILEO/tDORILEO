@@ -1,6 +1,5 @@
 ## 👋 Olá! Eu sou **Tauan Cristian Dorileo Rosa Silva** 🖖
 
-![Banner](https://via.placeholder.com/1200x200/4682B4/FFFFFF?text=Bem-vindo+ao+meu+GitHub)
 
 <img align="right" alt="Coding" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tDORILEO&layout=compact&langs_count=7&theme=radical">
 Sou apaixonado por tecnologia e programação, sempre buscando aprender mais e contribuir para a comunidade.
